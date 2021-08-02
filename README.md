@@ -14,4 +14,6 @@ I have developed the automation tests using a real device (iOS) using technologi
 
 mvn clean install will package a jar to run or tests can be run via eclipse. However you will need to configure the application.properties file to your own credentials for the desired capabilities
 
+There is a manual test script excel file included
+
 
